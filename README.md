@@ -9,12 +9,18 @@
 
 # Functions
 * Check HTTP, SOCKS4, SOCKS4A, SOCKS5 Proxies.
+* Parse proxies from ProxyScrape.com.
+* Choose Website Connection Timeout.
+* Choose Proxy Connection Timeout.
 * Webhook Proxies Logger.
 * Change Proxy Test Site.
-* Parse proxies from ProxyScrape.com.
 * See CPM.
-* Choose Website Connection Timeout and Proxy Connection Timeout.
+
 
 # Screenshots
 
 ![Checking proxies...](screenshot.png?raw=true "Screenshot")
+
+# Issues known
+
+* Proxies Hits File saving in Macintosh Encoding, so some program and the ProxyChecker can't load the file until you paste in another text file the content.

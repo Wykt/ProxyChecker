@@ -5,6 +5,7 @@
 * https://github.com/csharp-leaf/Leaf.xNet: Connect to the proxy and send request with it.
 * https://github.com/Fody/Fody and https://github.com/Fody/Costura: Pack references in the executable.
 * https://github.com/jlnpinheiro/discord-webhook-client: Send messages, files etc to a webhook easy.
+* https://github.com/App-vNext/Polly, https://github.com/yagoocarvalho/NotifiqueMe, Microsoft.AspNet.WebApi.Client: Used for discord-webhook-client
 * https://github.com/JamesNK/Newtonsoft.Json: Config the ProxyChecker (Change Proxy Test Site, Turn On/Off Webhook Proxies Logger and Webhook URL)
 
 # Functions

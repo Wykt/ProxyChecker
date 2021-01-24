@@ -181,7 +181,7 @@ namespace ProxyChecker
                          if (!Directory.Exists(Directory.GetCurrentDirectory() + "Results of " + date)) Directory.CreateDirectory("Results of " + date);
                          cpm.TryAdd(cpmHelper.Next(1, 2147483647), DateTimeOffset.Now.ToUnixTimeSeconds());
                          Console.Title = "ProxyChecker | Made By Wykt | Checked: " + checkedProxies + " | Good: " + good + " | Bad: " + bad + " | CPM: " + getCPM();
-                         File.AppendAllText("Results of " +date+ "\\good.txt", proxy.Trim() + Environment.NewLine, System.Text.Encoding.Unicode);
+                         File.AppendAllText("Results of " +date+ "\\" + proxyTypeString + ".txt", proxy.Trim() + Environment.NewLine, System.Text.Encoding.Unicode);
                      }
                  } catch
                  {
@@ -224,7 +224,7 @@ namespace ProxyChecker
             {
                 DiscordWebhookClient discordWebhookClient = new DiscordWebhookClient(config.webhook_url);
                 var message = new DiscordMessage(proxyTypeString + " Proxies.", username: "ProxyChecker | Made By Wykt | Webhook Uploader");
-                var file = new DiscordFile(proxyTypeString + "_proxies.txt", System.Text.Encoding.UTF8.GetBytes(File.ReadAllText("Results of " + date + "\\good.txt")));
+                var file = new DiscordFile(proxyTypeString + "_proxies.txt", System.Text.Encoding.UTF8.GetBytes(File.ReadAllText("Results of " + date + "\\" + proxyTypeString + ".txt")));
                 DiscordFile[] files = { file };
                 Console.WriteLine("[SUCCESS] Proxies uploaded.", Color.BlueViolet);
 

@@ -1,0 +1,13 @@
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.exe.config
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.exe
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\bin\Debug\ProxyChecker.pdb
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\bin\Debug\Leaf.xNet.xml
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csprojAssemblyReference.cache
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csproj.CoreCompileInputs.cache
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csproj.CopyComplete
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.exe
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.pdb
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\obj\Debug\ProxyChecker.csproj.Fody.CopyLocal.cache
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\bin\Debug\Polly.xml
+C:\Users\Wykt\Documents\VS Projects\ProxyChecker\ProxyChecker\bin\Debug\System.Net.Http.Formatting.xml

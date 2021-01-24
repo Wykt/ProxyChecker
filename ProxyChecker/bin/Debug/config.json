@@ -1,0 +1,5 @@
+{
+"enableWebhook":"false",
+"webhook_url":"https://discord.com/api/webhooks/<webhook-id>/<webhook-token>",
+"proxy_test_site":"https://azenv.net"
+}

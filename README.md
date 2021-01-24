@@ -22,5 +22,5 @@
 
 # Issues known
 
-* Optimisation: I know the program is not optimized, I code in c# since 3 days, i just know C# because before I coded in Java and the Java is very similary to C#.
+* Optimisation: I know the program is not optimized, I code in c# since 3 days (when i write this file), i just know C# because before I coded in Java and the Java is very similary to C#.
 * Proxies Hits File saving in Macintosh Encoding, so some program and the ProxyChecker can't load the file until you paste in another text file the content.
